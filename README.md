@@ -225,9 +225,9 @@ Client → HTTPS → Backend API → Database (Encrypted)
 
 | Layer    | Technologies                        |
 | -------- | ----------------------------------- |
-| Frontend | React / HTML / CSS / JS             |
-| Backend  | Node.js / Python (Flask/Django)     |
-| Database | PostgreSQL / MongoDB                |
+| Frontend | React / HTML / CSS / TS             |
+| Backend  | Python / SQLAlchemy / Pydantic / Axiom |
+| Database | PostgreSQL                          |
 | Auth     | JWT / OAuth                         |
 | Security | bcrypt, HTTPS, validation libraries |
 
