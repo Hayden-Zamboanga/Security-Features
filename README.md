@@ -12,8 +12,6 @@ The goal is to build a system that implements real-world security features used 
 * Preventing common vulnerabilities
 * Following secure coding best practices
 
-This project is ideal for showcasing **backend, security, and DevSecOps skills** in a portfolio.
-
 ---
 
 ## Objectives
